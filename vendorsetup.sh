@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_miatoll-user
-add_lunch_combo omni_miatoll-userdebug
-add_lunch_combo omni_miatoll-eng
+add_lunch_combo twrp_miatoll-user
+add_lunch_combo twrp_miatoll-userdebug
+add_lunch_combo twrp_miatoll-eng
